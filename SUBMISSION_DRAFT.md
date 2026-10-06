@@ -26,9 +26,11 @@ The important word is **possible**. These are acoustic matches, not confirmed si
 
 ## Demo
 
-**Public demo or video:** TODO: add a publicly accessible deployed URL or video link before publishing.
+**Demo video:** [Watch or download the browser walkthrough](https://github.com/ParasGarg2k/invisible-neighbors/blob/main/demo/demo.mp4) (also available at [`demo/demo.mp4`](./demo/demo.mp4)).
 
-The demo walkthrough will show:
+This screen recording demonstrates the application in a browser. It is a product walkthrough, not an outdoor field trial or evidence of confirmed bird identifications. The application can be run locally using the setup instructions in the repository README.
+
+The walkthrough is intended to show:
 
 1. Importing a short outdoor recording or a video with an audio track.
 2. Opening its listening-stop page and requesting analysis.
@@ -40,7 +42,7 @@ The application runs locally at `http://127.0.0.1:5175/` during development. Tha
 
 ## Code
 
-**Repository:** TODO: add the public GitHub repository URL before publishing.
+**Repository:** https://github.com/ParasGarg2k/invisible-neighbors
 
 The application code is MIT licensed. Model weights are not included in the repository or bundled into the application; they retain their separate upstream license.
 
